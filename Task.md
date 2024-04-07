@@ -17,7 +17,7 @@
     </ul>
   </li>
   <li>
-    <h2>For Manmoahn </h2>
+    <h2>For Vishal </h2>
     <h3>UI/UX Design and Frontend Development</h3>
     <ul>
       <li>Begin designing the user interface for the application, focusing on ease of use and intuitive navigation.</li>
